@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: python-app
-          image: thabassumthahera/python-app:ci-37
+          image: thabassumthahera/python-app:ci-38
           ports:
             - containerPort: 5000
